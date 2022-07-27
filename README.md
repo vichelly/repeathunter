@@ -1,0 +1,1 @@
+Programa que lê um texto e conta as repetições da palavra escolhida.
